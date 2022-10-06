@@ -1,0 +1,28 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+#node_modules/
+
+# Ignore all log files
+*.log
+
+# Ignore files related to API keys
+/.env/
+
+# Ignore SASS config files
+.sass-cache
+
+
+.styleci.yml
+/node_modules
+
+/storage/*.key
+/vendor
+/.idea
+#/public/img
+#/public/storage
+/public/0.js
+/public/1.js
+/public/js/index.js
+/public/css/app.css
